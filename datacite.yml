@@ -3,7 +3,7 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Zhenhao Shi
+      - name: Shi
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -11,7 +11,7 @@ data:
         contributorType: Researcher
         order: 1
     creators:
-      - name: Zhenhao Shi
+      - name: Shi
         nameType: Personal
     descriptions:
       - description: N/A
