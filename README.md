@@ -1,1 +1,1 @@
-OUD network segregation
+OUD resting-state network segregation
